@@ -16,7 +16,7 @@
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 
-<script src="//google.com/recaptcha/api.js?render=ключ"></script>
+<script src="//google.com/recaptcha/api.js?render=ПубличныйТокен"></script>
 
 ///////////////////////////////////////////////////
 // пример формы (обёртка не обязана быть формой) //
